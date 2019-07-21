@@ -1,0 +1,28 @@
+{
+  "name": "webniture-backend",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "repository": "https://github.com/haydnjm/webniture_backend.git",
+  "author": "Haydn Morris <haydn@intique.net>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.ts"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.6.9",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "nodemon": "^1.19.1",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^8.3.0",
+    "type-graphql": "^0.17.4",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.1",
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^12.6.2"
+  }
+}
