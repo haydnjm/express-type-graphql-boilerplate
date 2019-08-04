@@ -6,7 +6,7 @@
   "author": "Haydn Morris <haydnjmorris@googlemail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon src/server.ts"
+    "start": "nodemon src/server.ts "
   },
   "dependencies": {
     "apollo-server-express": "^2.6.9",
