@@ -1,9 +1,9 @@
 {
-  "name": "webniture-backend",
+  "name": "type-graphql_express_boilerplate",
   "version": "1.0.0",
   "main": "server.ts",
-  "repository": "https://github.com/haydnjm/webniture_backend.git",
-  "author": "Haydn Morris <haydn@intique.net>",
+  "repository": "https://github.com/haydnjm/express-type-graphql-boilerplate.git",
+  "author": "Haydn Morris <haydnjmorris@googlemail.com>",
   "license": "MIT",
   "scripts": {
     "start": "nodemon src/server.ts"
