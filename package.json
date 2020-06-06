@@ -9,7 +9,7 @@
     "start": "nodemon src/server.ts "
   },
   "dependencies": {
-    "apollo-server-express": "^2.6.9",
+    "apollo-server-express": "^2.14.2",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
